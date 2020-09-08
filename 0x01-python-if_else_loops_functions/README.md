@@ -36,4 +36,4 @@ What is a function and how do you use functions
 |[12-fizzbuzz.py](https://github.com/sashaveloz/holbertonschool-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/12-fizzbuzz.py)|Function that prints the numbers from 1 to 100 separated by a space.|
 
 > ## Contact info:
-### | [github](https://github.com/sashaveloz) | [twitter](ht\tps://twitter.com/velozsasha) | [linkedin](https://www.linke\din.com/in/sasha-veloz-6512001b0/) | 
+### | [github](https://github.com/sashaveloz) | [twitter](https://twitter.com/velozsasha) | [linkedin](https://www.linkedin.com/in/sasha-veloz-6512001b0/) | 
