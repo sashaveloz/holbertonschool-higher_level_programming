@@ -1,5 +1,7 @@
 # Python - Hello, World
-### 0x01. Python - if/else, loops, functions
+### '0x01. Python - if/else, loops, functions' proyect about conditions, loops and functions.
+
+This are the learning objectives for the final of the same:
 
 * Why indentation is so important in Python
 * How to use the if, if ... else statements
