@@ -19,8 +19,8 @@ This are the learning objectives for the final of the same:
 | Filename | Description |
 |------------|-------------------|
 |[0-print_list_integer.py](https://github.com/sashaveloz/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/0-print_list_integer.py) |Function that prints all integers of a list.|
-|[]()||
-|[]()||
+|[1-element_at.py](https://github.com/sashaveloz/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/1-element_at.py)|Function that retrieves an element from a list.|
+|[2-replace_in_list.py]()|Function that replaces an element of a list at a specific position|
 |[3-print_reversed_list_integer.py](https://github.com/sashaveloz/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/3-print_reversed_list_integer.py)| Function that prints all integers of a list, in reverse order.|
 |[]()||
 |[]()||
