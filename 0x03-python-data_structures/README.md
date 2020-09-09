@@ -18,7 +18,7 @@ This are the learning objectives for the final of the same:
 
 | Filename | Description |
 |------------|-------------------|
-|[0-print_list_integer.py](Function that prints all integers of a list.)||
+|[0-print_list_integer.py](https://github.com/sashaveloz/holbertonschool-higher_level_programming/blob/master/0x03-python-data_structures/0-print_list_integer.py) |Function that prints all integers of a list.|
 |[]()||
 |[]()||
 |[]()||
