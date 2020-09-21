@@ -1,4 +1,4 @@
-# Python - Hello, World
+# Python - If, Else, Loops, and Functions
 ### '0x01. Python - if/else, loops, functions' proyect about conditions, loops and functions.
 
 This are the learning objectives for the final of the same:
